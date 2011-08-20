@@ -1,0 +1,14 @@
+^ Rack
+|
+| Sinatra
+|            -\
+|             |
+|             |
+|             |
+|             | Padrino
+|             |
+|             |
+|             |
+|             |
+|            -/
+v Rails

@@ -1,0 +1,12 @@
+h1,h2,h3,h4,h5,p {
+    font-family: Helvetica,Arial,Verdana,sans-serif;
+}
+
+blockquote p {
+    font-family: Georgia,Times New Roman,serif;
+    font-style: italic;
+}
+
+h1,h2,h3 {
+    color: #444444;
+}

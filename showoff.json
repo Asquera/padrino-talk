@@ -1,0 +1,7 @@
+{ "name": "Padrino", 
+  "sections": [ 
+    {"section":"introduction"},
+    {"section":"usage_styles"},
+    {"section":"finishers"}
+  ]
+}
